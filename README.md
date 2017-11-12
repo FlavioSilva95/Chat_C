@@ -4,6 +4,7 @@ Chat Cliente-Servidor
 
 1- Compile o código fonte do cliente e do servidor junto com a flag pthread.
 	Exemplo: gcc -pthread cliente.c -o cliente
+	
 2- Execute primeiramente o Servidor. Você pode passar como argumento a porta 
 de escuta
 	Exemplo: ./servidor 5678
